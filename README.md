@@ -1,0 +1,2 @@
+# parcialrepetido
+parcilon 
